@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: FARRAY
+font link: https://www.dropbox.com/s/qfeit6m8yssxaod/FARRAY.zip
+font author: Adrien Coquet
+font author site: http://www.adrien-coquet.com/
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#08C7D6","icon-gradient-1":"#02023E","font":"#000000","slogan":"#141414"}
+      
