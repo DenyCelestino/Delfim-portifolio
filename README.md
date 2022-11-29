@@ -18,6 +18,6 @@ And enjoy 😊❤️🎉
 
 ## Demo
 
-Link: git clone https://delfim-portefolio.netlify.app
+Link: git clone https://delfim-portifolio.netlify.app
 
 <img align="center" src="https://cdn.sanity.io/images/1pgtgm8y/production/29ea7cd638e3d7d68ac87e626aeae0dbb9434250-1600x900.png?w=2000&fit=max&auto=format"/>
